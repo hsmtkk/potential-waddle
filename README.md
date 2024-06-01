@@ -1,2 +1,1 @@
-# potential-waddle
-TWS API Python Sample
+Python ib-insync sample
